@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126938492694",
+    "firebase_url": "https://whetherapi.firebaseio.com",
+    "project_id": "whetherapi",
+    "storage_bucket": "whetherapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126938492694:android:3ad14e464492e9961a2a37",
+        "android_client_info": {
+          "package_name": "my.weather.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126938492694-dqk65p5492ibht4rrcjiurmkeiihrtq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.weather.myapplication",
+            "certificate_hash": "7da068dad6e91b26790ed2d251bad7deb41cceb5"
+          }
+        },
+        {
+          "client_id": "126938492694-27bqtc9rl7fo21oiachsrcs5scubcdk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcx-5YVwyCc8HofoVwlZ7XrMAYDl9U8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126938492694-27bqtc9rl7fo21oiachsrcs5scubcdk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
